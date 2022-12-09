@@ -59,7 +59,7 @@ https://portswigger.net/web-security
 https://www.hacksplaining.com/   
 
 ## CS
-https://github.com/ossu/computer-science#final-project   
+https://github.com/ossu/computer-science#readme
 
 ## Miscellaneous
 https://m2.material.io/design/foundation-overview   
